@@ -1,0 +1,7 @@
+<resources>
+    <color name="background_color">#F5F5F5</color>
+    <color name="primary_color">#6200EE</color>
+    <color name="button_color">#6200EE</color>
+    <color name="output_text_color">#333333</color>
+    <color name="stroke_color">#CCCCCC</color>
+</resources>
