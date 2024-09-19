@@ -27,9 +27,9 @@
 ## Screenshots
 
 
-| ![output2](https://github.com/user-attachments/assets/d1c5e6b5-a7a4-479d-8017-0a741c05b8d3) | ![output1](https://github.com/user-attachments/assets/4016fd96-41f2-4a3a-9122-0f8b357f6885)  | ![Transaction History](https://via.placeholder.com/150) |
-|:------------------------------------------------:|:---------------------------------------------------:|
-| **Transfer Fund**                                       |    **Error Handle**                               |
+| ![output2](https://github.com/user-attachments/assets/d1c5e6b5-a7a4-479d-8017-0a741c05b8d3) | ![output1](https://github.com/user-attachments/assets/4016fd96-41f2-4a3a-9122-0f8b357f6885)  |
+|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| **Transfer Fund**                                                                           | **Error Handle**                               |
 
 ---
 
