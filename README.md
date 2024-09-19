@@ -26,9 +26,10 @@
 
 ## Screenshots
 
-| ![Login Screen](https://via.placeholder.com/150) | ![Transfer Screen](https://via.placeholder.com/150) | ![Transaction History](https://via.placeholder.com/150) |
-|:------------------------------------------------:|:---------------------------------------------------:|:-------------------------------------------------------:|
-| **Login**                                        | **Transfer Amount**                                  | **Transaction History**                                 |
+
+| ![output2](https://github.com/user-attachments/assets/d1c5e6b5-a7a4-479d-8017-0a741c05b8d3) | ![output1](https://github.com/user-attachments/assets/4016fd96-41f2-4a3a-9122-0f8b357f6885)  | ![Transaction History](https://via.placeholder.com/150) |
+|:------------------------------------------------:|:---------------------------------------------------:|
+| **Transfer Fund**                                       |    **Error Handle**                               |
 
 ---
 
@@ -38,7 +39,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/QuickTransfer.git
+    git clone https://github.com/ranadeesh528/QuickTransfer.git
     ```
 2. Open the project in **Android Studio**.
 3. Sync Gradle and resolve dependencies.
@@ -64,7 +65,7 @@ QuickTransfer/
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/
-│   │   │   │   ├── com/yourapp/quicktransfer/
+│   │   │   │   ├── com/randeesh/quicktransfer/
 │   │   │   │   │   ├── MainActivity.kt
 │   │   │   │   │   ├── User.kt
 │   │   │   │   │   ├── Transaction.kt
